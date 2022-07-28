@@ -1,0 +1,85 @@
+[
+  {
+    "title": "Expertise",
+    "entries": [
+      {
+        "title": "Project Management"
+      },
+      {
+        "title": "Quality Planning"
+      },
+      {
+        "title": "Laboratory techniques"
+      },
+      {
+        "title": "Material Engineering"
+      },
+      {
+        "title": "Supply Chain"
+      }
+    ]
+  },
+  {
+    "title": "Software",
+    "entries": [
+      {
+        "title": "Microsoft 365"
+      },
+      {
+        "title": "Google Workspace"
+      },
+      {
+        "title": "Q-DAS qs-STAT"
+      },
+      {
+        "title": "iqs CAQ-System"
+      },
+      {
+        "title": "SAP PLM-PDM"
+      }
+    ]
+  },
+  {
+    "title": "Development",
+    "entries": [
+      {
+        "title": "JavaScript"
+      },
+      {
+        "title": "Vue.js"
+      },
+      {
+        "title": "React"
+      },
+      {
+        "title": "HTML5/CSS3"
+      },
+      {
+        "title": "Git"
+      },
+      {
+        "title": "Python"
+      },
+      {
+        "title": "SQL"
+      },
+      {
+        "title": "C++"
+      }
+    ]
+  },
+  {
+    "title": "Language",
+    "entries": [
+      {
+        "title": "German (fluent)"
+      },
+      {
+        "title": "English (fluent)"
+      },
+      {
+        "title": "Spanish (native)"
+      }
+    ]
+  }
+]

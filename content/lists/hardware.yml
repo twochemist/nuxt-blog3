@@ -1,0 +1,21 @@
+title: Hardware
+description: My Developer Setup.
+image: /lists/hardware/main.png
+hideLogos: true
+entries:
+  - title: Lenovo ThinkPad
+    description: "Specs: Intel Core i7 (Processor), 16 GB (Memory), 500 GB (Storage)"
+    url: https://www.lenovo.com/es/es/laptops/thinkpad/t-series/ThinkPad-T14-G1/p/22TPT14T4N1
+  - title: HP EliteDisplay 24''
+    description: Nice Monitor.
+    url: https://www8.hp.com/lamerica_nsc_cnt_amer/es/monitors/product-details/17210325
+  - title: Dell SK 8115
+    description: Keyboard.
+    url: 
+  - title: Sennheiser HD 300
+    description: Headset.
+    url: 
+  - title:   Logitech M171
+    description: Mouse
+    url: 
+  

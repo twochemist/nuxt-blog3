@@ -1,0 +1,27 @@
+{
+  "name": "Antonio Arjona",
+  "image": "/profil.jpg",
+  "list": [
+    {
+      "title": "www.antonioarjona.dev",
+      "url": "http://antonioarjona.dev"
+    }
+  ],
+  "footer": {
+    "logo": "/logo.svg",
+    "links": [
+      {
+        "title": "Linkedin",
+        "url": "https://www.linkedin.com/in/antonio-manuel-arjona/"
+      },
+      {
+        "title": "Web",
+        "url": "https://antonioarjona.dev"
+      },
+      {
+        "title": "Github",
+        "url": "https://github.com/twochemist"
+      }
+    ]
+  }
+}
